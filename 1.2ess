@@ -1,0 +1,11 @@
+start
+new price number
+set price 4000
+new money number
+set money 4500
+if (money>price)
+  log string "Хватает"
+else
+  log string "Не хватает"
+close
+finish
