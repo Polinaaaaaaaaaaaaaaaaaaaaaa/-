@@ -1,0 +1,11 @@
+start
+new age number
+set age 18
+new porok number
+set porok 18
+if (age>porok)
+  log string "Можно купить алкоголь"
+else
+  log string "Нельзя купить алкоголь"
+close
+finish
